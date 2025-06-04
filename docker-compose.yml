@@ -7,4 +7,4 @@ services:
       - "9099:9099"
     volumes:
       - "./_tmp:/app/_tmp"
-    image: fghwett/notepad:latest
+    image: minimalist-notepad:latest
